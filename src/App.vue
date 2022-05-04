@@ -1,5 +1,5 @@
 <template>
-  <Nav />
+  <Navbar />
 
   
   <router-view/>
@@ -8,12 +8,12 @@
 </template>
 <script>
 
-import Nav from '@/components/Nav.vue'
+import Navbar from '@/components/Navbar.vue'
 import Footer from '@/components/Footer.vue'
 
 export default {
   components:{
-    Nav,
+    Navbar,
     Footer
     
   }
