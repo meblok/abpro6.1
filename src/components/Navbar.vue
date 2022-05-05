@@ -17,6 +17,9 @@
         <li class="nav-item">
           <a class="nav-link" href=""><router-link to="/contact">Contact</router-link></a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href=""><router-link to="/login">Login</router-link></a>
+        </li>
       </ul>
     </div>
   </div>
